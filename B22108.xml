@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ordinance of the Lords and Commons assembled in Parliament, for bringing in the arrears of the monethly assessment formerly charged upon the cities of London and Westminster, and all other parishes and places within the line of communication, and county of Middlesex.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22108</idno><idno type="EEBO-CITATION">49520884</idno>
+  <idno type="VID">207930</idno>
+  <idno type="EEBO-PROQUEST">2240891646</idno>
+  
+            <idno type="STC">Wing E1864</idno>
+            <idno type="OCLC">49520884</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22108)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207930)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2666:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ordinance of the Lords and Commons assembled in Parliament, for bringing in the arrears of the monethly assessment formerly charged upon the cities of London and Westminster, and all other parishes and places within the line of communication, and county of Middlesex.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Husbands,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Dec. 28. 1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"26. Decem. 1644. H. Ellynge, Cler. Parl. D. Com."</note>
+                  <note>Imperfect: heavily stained, with print show-through.</note>
+                  <note>Reproduction of original in: Sutro Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Taxation --  England --  Middlesex --  Law.</term>
+               <term type="geographic_name">Middlesex (England) --  History.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:207930:1"/>
+            <p>AN ORDINANCE OF THE Lords and Commons Assembled in PARLIAMENT, For bringing in the Arrears of the Monethly Assessment formerly charged upon the Cities <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>London</hi> and <hi>Westminster,</hi> And all other Parishes and places within the Line of Communication, and county OF MIDDLESEX.</p>
+            <p>26. Decem. 1644.</p>
+            <p>H: Elsynge, Cler. Parl. D. Com.</p>
+            <p>London, Printed for <hi>Edw. Husbands.</hi> Dec▪ 28. 1644.</p>
+            <pb facs="tcp:207930:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_ordinance">
+            <pb n="3" facs="tcp:207930:2"/>
+            <opener>
+               <dateline>
+                  <date>26. Decemb. 1644.</date>
+               </dateline>
+            </opener>
+            <head>An Ordinance of the Lords and Com<g ref="char:EOLhyphen"/>mons assembled in Parliament, for bringing in the Arrears of the Moneth<g ref="char:EOLhyphen"/>ly Assessment, formerly charged upon the cities of <hi>London</hi> and <hi>Westminster,</hi> and all other Parishes and places within the Lines of Communication, and county of <hi>Middlesex.</hi>
+            </head>
+            <p>VVHereas by an Ordinance of the six and twentieth of <hi>March</hi> last, The Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment assembled, did Ordain, That there should be monethly charged and levied upon the Cities of <hi>London</hi> and <hi>Westmin<g ref="char:EOLhyphen"/>ster,</hi> the Hamblets of the Tower, the
+<pb n="4" facs="tcp:207930:3"/> Borough of Southwark, and all other Parishes and places with it the Line of Communication, and weekly Bills of Mortality, the sum of six thousand nine hundred sixty two pounds four shillings, and upō the county of <hi>Middlesex</hi> without the said limits, the sum of one thousand fourscore and seventeen pounds eleven shillings, for the maintenance and pay<g ref="char:EOLhyphen"/>ment of the Army under the immediate command of the Earl of <hi>Essex,</hi> Lord Ge<g ref="char:EOLhyphen"/>nerall of the Forces raised by the Par<g ref="char:EOLhyphen"/>liament; and other things in the said Ordinance mentioned for the space of four moneths, to commence from the twentieth day of <hi>March</hi> 1643. accounting twenty eight dayes to the moneth, to be assessed, levied, and collected, and paid unto Sir <hi>Gilbert Gerard</hi> Baronet, in such manner, and by such wayes and means as in and by the said Ordinance is men<g ref="char:EOLhyphen"/>tioned and expressed. And whereas by another Ordinance of the fourth of <hi>October</hi> last, The said Lords and Com<g ref="char:EOLhyphen"/>mons
+<pb n="5" facs="tcp:207930:3"/> did Ordain, That the greatest part of the sums due and payable by ver<g ref="char:EOLhyphen"/>tue of the said former Ordinance, which were then in Arrear, should by the said Sir <hi>Gilbert Gerard</hi> be paid over to Sir <hi>Walter Earl</hi> Knight, Lieutenant of the Ordnance, for the uses therein limited and expressed, enjoyning all and every such persons, as by the said first recited Ordinance were appointed to collect and levy the said Arrears, forthwith to pro<g ref="char:EOLhyphen"/>ceed effectually therein, and to make payment of the same in such manner as in and by the said first recited Ordinance was formerly appointed. Notwith<g ref="char:EOLhyphen"/>standing which, through the carelesse<g ref="char:EOLhyphen"/>nesse and negligence of many of those persons, who by the said first recited Or<g ref="char:EOLhyphen"/>dinance were nominated and appointed to collect and levy the said sums, very little of the said Arrears hath since that time been brought in and paid unto the said Sir <hi>Gilbert Gerard</hi> or his Assigns. The Lords and Commons assembled in
+<pb n="6" facs="tcp:207930:4"/> Parliament, do therefore now Ordain, That if any person or persons by vertue of the said first recited Ordinance, nomi<g ref="char:EOLhyphen"/>nated and appointed to collect, levy, or pay any of the sums before mentioned, shall wilfully neglect or refuse to per<g ref="char:EOLhyphen"/>form the same: The Lord Mayor of the City of <hi>London</hi> for the time being, or any two Aldermen of the said City, within the same, and Liberties thereof, and the respective Committees without the said City and the Liberties thereof, for the City of <hi>Westminster,</hi> the Borough of <hi>South<g ref="char:EOLhyphen"/>wark,</hi> and County of <hi>Middlesex,</hi> by ver<g ref="char:EOLhyphen"/>tue of the said first recited Ordinance respectively nominated and appointed as aforesaid, or any five of them have hereby power to commit such person or persons so refusing or neglecting, to Pri<g ref="char:EOLhyphen"/>son, there to remain without Bail or Mainprize, untill he shall conform him<g ref="char:EOLhyphen"/>self, or otherwise to impose upon such person or persons for every time so refu<g ref="char:EOLhyphen"/>sing or neglecting, to perform the said
+<pb n="7" facs="tcp:207930:4"/> service or their duties therein, such fine or fines as to them shall be thought fit, and cause the same to be levyed by di<g ref="char:EOLhyphen"/>stresse and sale of Goods, in such man<g ref="char:EOLhyphen"/>ner and form as in and by the said first recited Ordinance, for and concerning such persons as should refuse or neglect to pay the sums of mony, whereat they should be rated or assessed by vertue of that Ordinance is limited and appoint<g ref="char:EOLhyphen"/>ed: Provided that no fine so imposed, shall for any one offence exceed the sum of five pounds.</p>
+            <p>Provided that this Ordinance shall not any wayes extend to the Members of either of the Houses of Parliament, or to the Assistants or Attendants to the House of Peers.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
